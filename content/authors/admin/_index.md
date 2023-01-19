@@ -74,12 +74,10 @@ highlight_name: true
 ---
 
 José Alonso Solis-Lemus is a post-doctoral research associate at King's College London, at the  **Cardiac Electro-Mechanics Research Group** (CEMRG). 
-His research interests include image analysis, computer vision and software development. He is the lead developer of [CemrgApp](https://www.cemrgapp.com), a platform with custom image processing and computer vision toolkits for applying statistical, machine learning, and simulation approaches to cardiovascular data. .
+His research interests include image analysis, computer vision and software development. He is one of the lead developers of [CemrgApp](https://www.cemrgapp.com), a platform with custom image processing and computer vision toolkits for applying statistical, machine learning, and simulation approaches to cardiovascular data. .
 
 José Alonso graduated from Instituto Tecnologico Autonomo de México (ITAM) in Telematics Engineering (2013) and Applied Mathematics (2014). 
 He received his PhD in Biomedical Engineering working at the School of Mathematics, Computer Science and Engineering (SMCSE) at City, University of London. 
 His PhD research focused on the automated analysis of moving patterns in migrating cells’ movement. 
 Moving his focus "closer to the patient", José Alonso joined [CEMRG](https://cemrg.com) early in 2019 as a Post-Doctoral Research Associate, 
 where he is currently developing image processing and computer vision algorithms for the analysis of cardiac images. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
