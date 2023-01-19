@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: dracula
+  theme_night: dracula
   font: minimal
-  font_size: m
+  font_size: s
 
 # SEO
 

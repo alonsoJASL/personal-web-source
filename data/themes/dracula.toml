@@ -1,0 +1,36 @@
+# Theme metadata
+name = "Dracula"
+
+[light]
+  # Primary
+  primary = "#282a36"
+
+  link = "#bd93f9"
+  link_hover = "#ff79c6"
+
+  # Menu
+  menu_primary = "#282a36"
+  menu_text = "#f8f8f2"
+  menu_text_active = "#8be9fd"
+  menu_title = "#6272a4"
+
+  # Home sections
+  home_section_odd = "#282a36"
+  home_section_even = "#44475a"
+
+[dark]
+  # Primary
+  primary = "#282a36"
+
+  link = "#bd93f9"
+  link_hover = "#ff79c6"
+
+  # Menu
+  menu_primary = "#282a36"
+  menu_text = "#f8f8f2"
+  menu_text_active = "#8be9fd"
+  menu_title = "#6272a4"
+
+  # Home sections
+  home_section_odd = "rgb(40, 42, 54)"
+  home_section_even = "rgb(68, 71, 90)"
