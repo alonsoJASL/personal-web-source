@@ -1,17 +1,14 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: José Alonso Solís-Lemus
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: José Alonso
+last_name: Solís-Lemus
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,65 +17,61 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Post-doc Research Software Engineer 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: CEMRG
+    url: https://cemrg.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:j.solis-lemus@imperial.ac.uk'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/alonsoJASL
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/jsolislemus
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=2_095cQAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-2596-7811
 
 interests:
+  - Medical Image Analysis 
   - Artificial Intelligence
-  - Computational Linguistics
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Biomedical Engineering
+    institution: City, University of London
+    date_start: 2015-01-05
+    date_end: 2019-01-19
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      The thesis investigates the complex movement, shapes and overlapping of migrating objects, with special emphasis on images of fluorescently labelled macrophages. 
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://openaccess.city.ac.uk/id/eprint/22262/'
+  - area: BEng Telematics Engineering
+    institution: Instituto Tecnológico Autónomo de México
+    date_start: 2007-08-07
+    date_end: 2013-12-10
     summary: |
-      GPA: 3.8/4.0
-
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Applied Mathematics
+    institution: Instituto Tecnológico Autónomo de México
+    date_start: 2007-08-07
+    date_end: 2014-02-15
     summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -183,4 +176,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+José Alonso Solís-Lemus is a Research Software Engineer with a Ph.D. in Biomedical Engineering from City, University of London. Currently a Postdoctoral Research Associate at the Cardiac Electro-Mechanics Research Group, Imperial College London, José specializes in developing algorithms for advanced cardiac image analysis to be used by researchers and clinicians alike. He leads the ongoing development of CemrgApp, an interactive medical imaging platform, influencing over 40 research projects. His interests include open-source initiatives and promoting reproducible science, notably creating reproducible pipelines for patient-specific cardiac models; bridging scientific advancements to the clinic.
